@@ -6,7 +6,7 @@ repositories:
   realtime_tools:
     type: git
     url: https://github.com/ros-controls/realtime_tools
-    version: windows_ci
+    version: master
   filters:
     type: git
     url: https://github.com/christophfroehlich/filters.git

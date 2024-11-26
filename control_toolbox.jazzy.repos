@@ -7,7 +7,3 @@ repositories:
     type: git
     url: https://github.com/ros-controls/realtime_tools
     version: master
-  filters:
-    type: git
-    url: https://github.com/christophfroehlich/filters.git
-    version: ros2-boost

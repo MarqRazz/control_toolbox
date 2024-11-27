@@ -28,4 +28,5 @@ jobs:
       ref_for_scheduled_build: ros2-master
       os_name: windows-2019
       install_boost: true
+      install_vcpkg: true
       windows_dependencies: control_toolbox.windows.jazzy.repos
